@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a  Blockchain Dev⚔️  who is passionate with the possibilities of blockchain and here to craft the future, one smart contract at a time🧘🏽‍♀️. <br><br>Let's build something revolutionary! 🔥</p>
+<p align="left">I'm a  Blockchain Dev⚔️ passionate with the possibilities of blockchain and here to craft the future, one smart contract at a time🧘🏽‍♀️. <br><br>Let's build something revolutionary! 🔥</p>
 
 ###
 
